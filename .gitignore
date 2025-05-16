@@ -1,0 +1,10 @@
+# Ignore embedded Git repositories
+Scotty3D/
+standford/
+
+# Common ignored files
+.DS_Store
+*.log
+*.tmp
+*.swp
+*~ 
